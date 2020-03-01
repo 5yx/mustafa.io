@@ -1,0 +1,18 @@
+{
+    "platforms": [
+        {"image": "ground", "x": 0, "y": 546}
+    ],
+    "chars": [],
+    "decoration": [
+        {"frame": 0, "x": 80, "y": 504}
+    ],
+    "coins": [],
+    "hero": {"x": 21, "y": 525},
+    "spiders": [],
+    "door": {"x": 903, "y": -50},
+    "key": {"x": 819, "y": -50},
+    "addons": [
+        {"image": "chars", "x": 250, "y": 346, "fps": 10, "seq": [0, 1, 2, 1]},
+        {"image": "hb", "x": 250, "y": 200, "fps": 12, "seq": [0, 1, 2]}
+    ]
+}
